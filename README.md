@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Bohn
 
-- 🔭 Hoje trabalho como Front-end Developer na [Vnda Ecommerce](https://www.vnda.com.br/)
+- 🔭 Hoje trabalho como Front-end Developer na [DASA](https://dasa.com.br/)
 
 ##
 
