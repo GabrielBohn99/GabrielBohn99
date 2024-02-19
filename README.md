@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Bohn
 
-- 🔭 Software Developer at [DASA](https://dasa.com.br/)
+- 🔭 Software Developer at [Orbia](https://www.orbia.ag/)
 
 ##
 
