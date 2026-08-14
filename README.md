@@ -9,7 +9,7 @@ Senior Full-Stack Software Engineer with 6+ years of experience building scalabl
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,postgres,aws,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,postgres,mongodb,aws,docker,git" />
 </p>
 
 ### About me
