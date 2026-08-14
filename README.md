@@ -9,7 +9,7 @@ Senior Full-Stack Software Engineer with 6+ years of experience building scalabl
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,postgres,mongodb,aws,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,postgres,mongodb,firebase,aws,docker,git" />
 </p>
 
 ### About me
@@ -17,10 +17,9 @@ Senior Full-Stack Software Engineer with 6+ years of experience building scalabl
 * 🇧🇷 Based in Brazil
 * 💻 6+ years building web applications
 * ⚡ React / Next.js / TypeScript
-* 🧩 Node.js / NestJS / PostgreSQL
+* 🧩 Node.js / NestJS / PostgreSQL / MongoDB / Firebase
 * ☁️ AWS / Docker / CI/CD
 * 🤖 Exploring AI Agents & MCP
-* 📈 Growing toward Technical Leadership
 
 ### Connect
 
