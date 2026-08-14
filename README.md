@@ -1,25 +1,27 @@
-### Olá! Eu sou o Gabriel Bohn
+# Hi, I'm Gabriel 👋
 
-- 🔭 Software Developer at [Orbia](https://www.orbia.ag/)
+Senior Full-Stack Software Engineer with 6+ years of experience building scalable, high-performance web applications with React.js, Next.js, Node.js and TypeScript, with a strong focus on frontend architecture, performance and full-stack product development.
 
-##
+🚀 Built platforms handling BRL 10M+ in monthly transactions across 4+ countries at Orbia, where I was promoted from Software Engineer to Senior Software Engineer.
+🏥 Delivered a real-time WebSocket queue system across 400+ medical units at Dasa, helping reduce patient wait times by 23%.
+⚙️ Designed full-stack platforms with complex RBAC, approval workflows and hierarchical permissions, improving hierarchical query performance by approximately 70%.
 
- <div>
-  <a href="https://github.com/gabrielbohn99">
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="GabrielBohn99-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GabrielBohn99-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="GabrielBohn99-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="GabrielBohn99-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GabrielBohn99-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-##
-  
-  <div><br>
-  <a href = "mailto:gabrielcbohn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielcbohn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+### 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,postgres,aws,docker,git" />
+</p>
+
+### About me
+
+* 🇧🇷 Based in Brazil
+* 💻 6+ years building web applications
+* ⚡ React / Next.js / TypeScript
+* 🧩 Node.js / NestJS / PostgreSQL
+* ☁️ AWS / Docker / CI/CD
+* 🤖 Exploring AI Agents & MCP
+* 📈 Growing toward Technical Leadership
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Bohn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gabrielcbohn/)
